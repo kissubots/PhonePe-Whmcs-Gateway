@@ -15,17 +15,17 @@ Getting started with the Phonepe WHMCS Module is easy! Follow these simple steps
 1. **Copy the Gateway File**  
    Place the `phonepe.php` file into your WHMCS installation's `/modules/gateways/` directory.
 
-   ![Copy Gateway File](https://github.com/kissuhost/) <!-- Replace with actual image URL -->
+
 
 2. **Copy the Callback File**  
    Move the `phonepe.php` file from the `callback` folder into your WHMCS installation's `/modules/gateways/callback/` directory.
 
-   ![Copy Callback File](https://github.com/kissuhost/) <!-- Replace with actual image URL -->
+
 
 3. **Copy the SDK Folder**  
    Transfer the entire `phonepe-sdk` folder into your WHMCS installation's `/modules/gateways/` directory.
 
-   ![Copy SDK Folder](https://github.com/kissuhost/) <!-- Replace with actual image URL -->
+
 
 ---
 
@@ -38,7 +38,7 @@ After installation, you need to configure the module to connect with the Phonepe
 3. **Salt Index**: Specify the Salt Index for your account.
 4. **Production URL**: Input the appropriate Production URL.
 
-![Configuration Settings](https://github.com/kissuhost/) <!-- Replace with actual image URL -->
+
 
 ---
 
@@ -69,5 +69,5 @@ With the Phonepe WHMCS Module, you can elevate your e-commerce platform by provi
 
 For any questions or support, feel free to reach out to our support team.
 
-### 👨‍💻 Developer Information
+### 👨‍💻 Editor Information
 - **Developer**: [@xaekks](https://github.com/xaekks) on GitHub
