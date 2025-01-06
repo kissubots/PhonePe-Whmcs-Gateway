@@ -1,0 +1,31 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "phone-pay",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Phone-Pe Gateway",
+    "tagline": "Its Pretty Simple Method For Accepting Payment Using PhonePe.",
+    "long": "We will provide a WhatsApp Notification Module that is equipped with a WhatsApp Gateway installed on your server (unlimited sending, your own whatsapp number, and keep privacy).",
+    "features": [
+      "Accept All Payments Modes",
+      "Unlimited payment accept With 0 fees",
+      "Our dedicated support team is here to assist you round the clock",
+      "PhonePe’s advanced security features."
+    ]
+  },
+  "logo": {
+    "filename": "kissu.png"
+  },
+  "support": {
+    "homepage": "https://kissubots.in/",
+    "docs_url": "https://kissubots.in/phonpedoc"
+  },
+  "authors": [
+    {
+      "name": "KissuBots",
+      "homepage": "https://github.com/xaekks"
+    }
+  ]
+}
