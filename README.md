@@ -1,8 +1,8 @@
-# 📱 Phonepe WHMCS Module Master
+## 📱 Phonepe WHMCS Module 
 
 ## 🌟 Introduction
 
-Welcome to the **Phonepe WHMCS Module**! This powerful integration kit allows you to seamlessly incorporate the Phonepe payment gateway into your WHMCS PHP E-Commerce application. With this module, you can enhance your payment processing capabilities and provide your customers with a smooth and secure checkout experience.
+Welcome to the **Phonepe gateway**! This powerful integration kit allows you to seamlessly incorporate the Phonepe payment gateway into your WHMCS PHP E-Commerce application. With this module, you can enhance your payment processing capabilities and provide your customers with a smooth and secure checkout experience.
 
 ![Phonepe Logo](https://img.icons8.com/?size=100&id=OYtBxIlJwMGA&format=png&color=000000) <!-- Replace with actual image URL -->
 
@@ -71,3 +71,12 @@ For any questions or support, feel free to reach out to our support team.
 
 ### 👨‍💻 Editor Information
 - **Developer**: [@xaekks](https://github.com/xaekks) on GitHub
+
+  <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+<a href="https://telegram.me/xaekks"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/kissubots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
